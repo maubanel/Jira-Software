@@ -24,7 +24,7 @@ Create a new project by going to [lsudmae.atlassian.net](https://lsudmae.atlassi
 
 Now most of the time we will be using the **Software Development | Scrum** Template that they give us.  We will use the default one to start.
 
-![alt_text](images/ScrumTemplate.png)
+![pick the scrum template](images/ScrumTemplate.png)
 
 ![](../images/line2.png)
 
@@ -32,13 +32,15 @@ Now most of the time we will be using the **Software Development | Scrum** Templ
 
 Press <kbd>Use Template</kbd> to leave it as is.
 
-![alt_text](images/UseTemplate.png)
+![move to next screen](images/UseTemplate.png)
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now add **Name** for the project and make sure you are happy with the **Key** as it will be used on every issue.  If you have a project setting from a prior project you want to copy you can do so by selecting **Share settings with an existing project**. 
+
+![add project details](images/AddProjectDetails.png)
 
 ![](../images/line2.png)
 

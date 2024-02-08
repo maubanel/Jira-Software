@@ -20,7 +20,7 @@ You cannot edit an active **Workflow**. The first thing we need to do is make a 
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
 Select the workspace you want to edit and make a copy of it.  Please remember to delete this workflow if it will no longer be used and becomes inactive.
 
@@ -28,7 +28,7 @@ Select the workspace you want to edit and make a copy of it.  Please remember to
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**.
 

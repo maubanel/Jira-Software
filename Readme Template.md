@@ -12,25 +12,25 @@ Chapter introduction here.
 
 ---
 
-##### `Step 1.`\|`JIRASOFT`|:small_blue_diamond:
+##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
-##### `Step 2.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: 
+##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 ![alt_text](images/.png)
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 ![alt_text](images/.png)
 

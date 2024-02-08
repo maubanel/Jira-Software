@@ -12,7 +12,7 @@ When you want to customize the columns and create custom workflows (who can move
 
 ---
 
-##### `Step 1.`\|`JIRASOFT`|:small_blue_diamond:
+##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
 You cannot edit an active **Workflow**. The first thing we need to do is make a copy to then make changes.  *Press* the <kbd>Settings</kbd> gear in the top right hand side and select the **Issues** tab.
 

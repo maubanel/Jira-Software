@@ -2,7 +2,7 @@
 
 ### Custom Workflows
 
-<sub>[home](../README.md#user-content-jira-software) • [next](../groups/README.md#user-content-groups)</sub>
+<sub>[previous](../new-project/README.md#user-content-create-new-project) • [home](../README.md#user-content-jira-software) • [next](../groups/README.md#user-content-groups)</sub>
 
 ![](../images/line3.png)
 
@@ -74,5 +74,5 @@ Now so we don't want to get too many workflows so we need to go to the overall *
 
 ![](../images/line.png)
 
-| [home](../README.md#user-content-jira-software) | [next](../groups/README.md#user-content-groups)|
-|---------------------------|---|
+| [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../groups/README.md#user-content-groups)|
+|---------------------------|---|---|

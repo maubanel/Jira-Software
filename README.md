@@ -7,7 +7,7 @@ This is an quick overview of some administration and user tasks that are common 
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Adding Custom Workflows to Jira](setting-up/README.md#user-content-workflows) <br>
+<kbd></kbd> &nbsp;&nbsp; [Adding Custom Workflows to Jira](workflows/README.md#user-content-workflows) <br>
 
 <!-- LICENSE -->
 ## License

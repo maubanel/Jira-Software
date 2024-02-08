@@ -2,7 +2,7 @@
 
 ### Create New Project
 
-<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
+[home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -14,19 +14,25 @@ Creating a new project from scratch in Jira.
 
 ##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
-![alt_text](images/.png)
+Create a new project by going to [lsudmae.atlassian.net](https://lsudmae.atlassian.net) and logging in.  Select the **Projects** drop down menu and select <kbd>New Project</kbd>.
+ 
+![add new project](images/CreateNewProject.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now most of the time we will be using the **Software Development | Scrum** Template that they give us.  We will use the default one to start.
+
+![alt_text](images/ScrumTemplate.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Press <kbd>Use Template</kbd> to leave it as is.
+
+![alt_text](images/UseTemplate.png)
 
 ![](../images/line2.png)
 
@@ -144,5 +150,5 @@ Creating a new project from scratch in Jira.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-jira-software) | [next](../)|
-|---|---|---|
+[home](../README.md#user-content-jira-software) | [next](../)|
+|---|---|

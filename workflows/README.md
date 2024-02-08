@@ -36,7 +36,7 @@ Try not to keep the **all** flows that are default and limit movement between co
 
 ![](../images/line2.png)
 
-##### `Step 4.`\|`JIRASOFT`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
 

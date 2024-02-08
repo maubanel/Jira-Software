@@ -1,12 +1,12 @@
 ![](../images/line3.png)
 
-### Add Title
+### Groups
 
 <sub>[previous](../) • [home](../README.md#user-content-ue5-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+Adding a set of users to a Group to make for easier permissions.
 
 <br>
 

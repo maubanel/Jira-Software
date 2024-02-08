@@ -2,7 +2,7 @@
 
 ### Groups
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-jira-software) • [next](../)</sub>
+<sub>[previous](../workflows/README.md#user-content-workflows) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -144,5 +144,5 @@ Adding a set of users to a Group to make for easier permissions.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-jira-software) | [next](../)|
+| [previous](../workflows/README.md#user-content-workflows)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|

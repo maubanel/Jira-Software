@@ -16,6 +16,8 @@ This is an quick overview of some administration and user tasks that are common 
 
 <kbd></kbd> &nbsp;&nbsp; [Restrict Workflow Transition](workflow-transition/README.md#user-content-restrict-workflow-transition) <br>
 
+<kbd></kbd> &nbsp;&nbsp; [Estimation & Tracking](estimation/README.md#user-content-estimation-tracking) <br>
+
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information: [link](LICENSE).

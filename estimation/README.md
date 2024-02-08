@@ -2,11 +2,11 @@
 
 ### Estimation & Tracking
 
-<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
+<sub>[previous](../workflow-transition/README.md#user-content-restrict-workflow-transition) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
-Chapter introduction here.
+How to set up Jira to add estimation (switch between Story points and hours as well as time tracking)
 
 <br>
 
@@ -144,5 +144,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-jira-software) | [next](../)|
+| [previous](../workflow-transition/README.md#user-content-restrict-workflow-transition)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|

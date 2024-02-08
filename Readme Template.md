@@ -2,7 +2,7 @@
 
 ### Add Title
 
-<sub>[previous](../) • [home](../README.md#user-content-ue5-jira-software) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -144,5 +144,5 @@ Chapter introduction here.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-ue5-jira-software) | [next](../)|
+| [previous](../)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|

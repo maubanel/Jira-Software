@@ -30,9 +30,9 @@ Select the workspace you want to edit and make a copy of it.  Please remember to
 
 ##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**.
+Add and remove any statuses. Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**. Remember to give permission to both directions (which nodes can go forward and which can go back).
 
-![alt_text](images/createWorkflow.png)
+![ad statuses and adjust flow](images/createWorkflow.png)
 
 ![](../images/line2.png)
 
@@ -40,7 +40,7 @@ Try not to keep the **all** flows that are default and limit movement between co
 
 Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
 
-![alt_text](images/configureBoard.png)
+![configure board on project](images/configureBoard.png)
 
 ![](../images/line2.png)
 
@@ -48,7 +48,7 @@ Now we need to add the extra lanes that match the workflow.  Be careful that you
 
 Add the new columns for each new node you created.  Then drag the unmapped statuses to the new empty columns.  Move them into a logical order that matches your above workflow. 
 
-![alt_text](images/CreateNewColumnsAndMapStatuses.png)
+![add remove columns and assign statuses](images/CreateNewColumnsAndMapStatuses.png)
 
 ![](../images/line2.png)
 
@@ -56,7 +56,7 @@ Add the new columns for each new node you created.  Then drag the unmapped statu
 
 In the project press **Project Settings** and select <kbd>Add Workflows | Add Existing</kbd>.  Select the workflow you were editing then press <kbd>Next</kbd>.  Follow the next steps and make sure you press <kbd>Publish</kbd> at the end!
 
-![alt_text](images/PublishNewWorkflow.png)
+![go to project Workflows and add this newly edited copied workflow](images/PublishNewWorkflow.png)
 
 ![](../images/line2.png)
 
@@ -64,7 +64,7 @@ In the project press **Project Settings** and select <kbd>Add Workflows | Add Ex
 
 Now so we don't want to get too many workflows so we need to go to the overall **Settings** in the top right corner and select **Issues**.  Then select the **Workflows** tab and click on the three dots <kbd>...</kbd> and select **Delete**.
 
-![alt_text](images/DeleteOldWorkflow.png)
+![delete old workflow](images/DeleteOldWorkflow.png)
 
 ![](../images/line.png)
 

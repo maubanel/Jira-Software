@@ -14,7 +14,9 @@ Adding a set of users to a Group to make for easier permissions.
 
 ##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
-![alt_text](images/.png)
+Go to [Site Administration](https://admin.atlassian.com/) and make sure you are in Jira team **lsudmae**. Now select the **Groups** tab and press the <kbd>Create Groups</kbd> button.
+
+![create group for Jira users](images/CreateGroup.png)
 
 ![](../images/line2.png)
 

@@ -2,7 +2,7 @@
 
 ### Create New Project
 
-[home](../README.md#user-content-jira-software) • [next](../)</sub>
+[home](../README.md#user-content-jira-software) • [next](../workflows/README.md#user-content-custom-workflows)</sub>
 
 ![](../images/line3.png)
 
@@ -46,111 +46,17 @@ Now add **Name** for the project and make sure you are happy with the **Key** as
 
 ##### `Step 5.`\|`JIRASOFT`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now your project is ready to go!
 
-![](../images/line2.png)
-
-##### `Step 6.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 7.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 8.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 9.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 10.`\|`JIRASOFT`| :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 11.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 12.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 13.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 14.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 15.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 16.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 17.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 18.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 19.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 20.`\|`JIRASOFT`| :large_blue_diamond: :large_blue_diamond:
-
-![alt_text](images/.png)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`JIRASOFT`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
+![alt_text](images/ProjectReadyToGo.png)
 
 ![](../images/line.png)
 
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT PAGE"> -->
+<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Adding Custom Workflows to Jira"> -->
 
 ![next up - ](images/banner.png)
 
 ![](../images/line.png)
 
-[home](../README.md#user-content-jira-software) | [next](../)|
+[home](../README.md#user-content-jira-software) | [next](../workflows/README.md#user-content-custom-workflows)|
 |---|---|

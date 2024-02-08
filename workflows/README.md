@@ -66,6 +66,8 @@ Now so we don't want to get too many workflows so we need to go to the overall *
 
 ![alt_text](images/DeleteOldWorkflow.png)
 
+![](../images/line.png)
+
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT PAGE"> -->
 
 ![next up - ](images/banner.png)

@@ -34,13 +34,6 @@ Adding another group called **decision-makers**.  This will be used to limit who
 
 ![create as many groups as you need](images/DecidersGroup.png)
 
-![](../images/line2.png)
-
-![](../images/line2.png)
-
-##### `Step 21.`\|`JIRASOFT`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
-
-![alt_text](images/.png)
 
 ![](../images/line.png)
 

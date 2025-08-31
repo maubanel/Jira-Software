@@ -2,7 +2,7 @@
 
 ### Miscellaneous
 
-<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
+<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../workflow/README.md#user-content-workdlow)</sub>
 
 ![](../images/line3.png)
 
@@ -145,5 +145,5 @@ Some additional sweeteners for your Jira site.
 
 ![](../images/line.png)
 
-| [previous](../)| [home](../README.md#user-content-jira-software) | [next](../)|
+| [previous](../workflow/README.md#user-content-workdlow)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|

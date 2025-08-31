@@ -155,5 +155,5 @@ Now if you go back to the `Project Settings` and look at `Work items | Types` yo
 
 > ## ✅ Next Up – Workflow
 
-| [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../workflow/README.md#user-content-groups)|
-|---------------------------|---|---|
+| [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../workflow/README.md#user-content-workdlow) |
+|---------------------------|---|-----------------------------------------------------|

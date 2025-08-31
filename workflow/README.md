@@ -35,6 +35,14 @@ Add the **Project**, `Story` **Work type**, **Summary**, **Description**, **Pare
 
 ![create general Jira Group](images/UserStory.png)
 
+![](../images/line2.png)
+
+##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Drag the newly created story in your backlog to the appropriate sprint (usually the one you are working on).  Press the <button>Confirm</button> button.
+![alt_text](images/DragStoryFromBacklogToSprint.png)
+
+
 ![](../images/line.png)
 
 > ## ✅ Next Up – Miscellaneous

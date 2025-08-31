@@ -62,6 +62,8 @@ Add yourself as an administrator, or you will not be able to set up any project 
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Custom Workflows"> -->
 
+![](../images/line.png)
+
 > ## ✅ Next Up – Project Settings
 
 [home](../README.md#user-content-jira-software) | [next](../project-settings/README.md#user-content-custom-workflows)|

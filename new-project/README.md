@@ -50,7 +50,7 @@ Now add **Name** for the project and make sure you are happy with the **Key** as
 
 ![add project details](images/AddProjectDetails.png)
 
-![](../images/line.png)
+![](../images/line2.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Custom Workflows"> -->
 

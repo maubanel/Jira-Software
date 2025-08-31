@@ -70,3 +70,5 @@ Add yourself as an administrator, or you will not be able to set up any project 
 
 [home](../README.md#user-content-jira-software) | [next](../project-settings/README.md#user-content-custom-workflows)|
 |---|---|
+
+![](../images/line.png)

@@ -151,6 +151,14 @@ Now if you go back to the `Project Settings` and look at `Work items | Types` yo
 
 ![alt_text](images/TypeFixed.png)
 
+![](../images/line2.png)
+
+##### `Step 17.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Go to your newly created **Sprint Board** and press the `[Start Sprint]` button.
+
+![alt_text](images/StartSprint.png)
+
 ![](../images/line.png)
 
 > ## ✅ Next Up – Workflow

@@ -58,10 +58,74 @@ Select the `Workflows` tab and then `Edit Workflow`.
 
 ##### `Step 6.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond:
 
+Press `Update Workflow`.
 
-Add and remove any statuses. Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**. Remember to give permission to both directions (which nodes can go forward and which can go back).
+![ad statuses and adjust flow](images/UpdateWorkflow.png)
 
-![ad statuses and adjust flow](images/createWorkflow.png)
+![](../images/line2.png)
+
+##### `Step 7.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Switch scheme to the `DMAE25: Software Simplified Workflow Scheme`
+
+![switch to DMAE Scheme](images/DMAEWorkflowScheme.png)
+
+![](../images/line.png)
+
+
+##### `Step 8.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Press the `Associate` button in the next two screens.
+
+![switch to DMAE Scheme](images/PressAssociate.png)
+
+
+![](../images/line2.png)
+
+##### `Step 9.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now you should have an updated workflow that add blocked and review to the flow
+
+![update workflow](images/UpdatedWorkflow.png)
+
+![](../images/line2.png)
+
+##### `Step 10.`\|`JIRASOFT`| :large_blue_diamond:
+
+Now only a group of people can drag a work item from `Review` to `Done`.  This is limited to only members of the `jira-done-deciders` group. So you you will have to add all the users in your project that you want to give permission to move from Review to Done in that group.
+
+Please note that anyone can move an item from `Done` back to `Review` and work on the item again.
+
+![deciders](images/Deciders.png)
+
+
+![](../images/line2.png)
+
+##### `Step 11.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond:
+
+Select the right hand most gear and choose `User Management` then `Add group members` for all people you want to have the ability to approve work.  
+
+![alt_text](images/UserManagement.png)
+
+![](../images/line2.png)
+
+##### `Step 12.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Go to your project board and click on the 3 dot ellipses `...` and select `Board Settings`.
+
+In the `Details` tab check that your administrators are correct.
+
+In the `Working Days` check all days that your team is expected to work on (I typically leave it Monday to Friday) and add any holidays that you see fit.
+
+Go to the `Estimation Tab` and change it from `Story Points` to `Original time estimate`.
+
+In `Layout | Columns` you need to add the two new workflows added by pressing the `+` button and adding a `Review` and `Blocked` column and drag the two status with the same name into the column.
+
+![aset board settings](images/BoardSettings.png)
+
+![](../images/line2.png)
+
+
 Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
 
 ![configure board on project](images/configureBoard.png)
@@ -75,16 +139,10 @@ In the project press **Project Settings** and select <kbd>Add Workflows | Add Ex
 
 ![go to project Workflows and add this newly edited copied workflow](images/PublishNewWorkflow.png)
 
-![](../images/line2.png)
-
-##### `Step 7.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Now so we don't want to get too many workflows so we need to go to the overall **Settings** in the top right corner and select **Issues**.  Then select the **Workflows** tab and click on the three dots <kbd>...</kbd> and select **Delete**.
 
 ![delete old workflow](images/DeleteOldWorkflow.png)
-
-![](../images/line.png)
-
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT PAGE"> -->
 
 ![next up - ](images/banner.png)

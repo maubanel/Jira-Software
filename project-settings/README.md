@@ -153,13 +153,7 @@ Now if you go back to the `Project Settings` and look at `Work items | Types` yo
 
 ![](../images/line.png)
 
-
-<div style="background-color:#3fd3c8; text-align:center; padding:20px; color:black; font-size:24px;">
-  Next Up - Jira Workflow
-</div>
-
-
-![](../images/line.png)
+> ## ✅ Next Up – Workflow
 
 | [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../workflow/README.md#user-content-groups)|
 |---------------------------|---|---|

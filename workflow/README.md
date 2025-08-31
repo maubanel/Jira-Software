@@ -1,12 +1,12 @@
 ![](../images/line3.png)
 
-### Groups
+### Workflow
 
-<sub>[previous](../project-settings/README.md#user-content-workflows) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
+<sub>[previous](../project-settings/README.md#user-content-project-settings) • [home](../README.md#user-content-jira-software) • [next](../misc/README.md#user-content-project-miscellaneous)</sub>
 
 ![](../images/line3.png)
 
-Adding a set of users to a Group to make for easier permissions.
+How to use Jira on a regular basis
 
 <br>
 
@@ -35,16 +35,11 @@ Add the **Project**, `Story` **Work type**, **Summary**, **Description**, **Pare
 
 ![create general Jira Group](images/UserStory.png)
 
-![](../images/line2.png)
-
-
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Restrict Workflow Transition"> -->
-
-![next up - ](images/banner.png)
-
 ![](../images/line.png)
 
-| [previous](../project-settings/README.md#user-content-workflows)| [home](../README.md#user-content-jira-software) | [next](../)|
-|---|---|---|
+> ## ✅ Next Up – Miscellaneous
+
+| [previous](../project-settings/README.md#user-content-project-settings) | [home](../README.md#user-content-jira-software) | [next](../misc/README.md#user-content-project-miscellaneous) |
+|-------------------------------------------------------------------------|---|--------------------------------------------------------------|
 
 ![](../images/line.png)

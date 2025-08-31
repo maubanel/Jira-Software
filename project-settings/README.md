@@ -1,6 +1,6 @@
 ![](../images/line3.png)
 
-### Custom Workflows
+### Project Settings
 
 <sub>[previous](../new-project/README.md#user-content-create-new-project) • [home](../README.md#user-content-jira-software) • [next](../groups/README.md#user-content-groups)</sub>
 

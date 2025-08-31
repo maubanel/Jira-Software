@@ -17,7 +17,6 @@ This is an quick overview of some administration and user tasks that are common 
 <kbd></kbd> &nbsp;&nbsp; [Sprints](sprints/README.md#user-content-groups) <br>
 
 <kbd></kbd> &nbsp;&nbsp; [Miscellaneous](misc/README.md#user-content-miscellaneous) <br>
-/README.md#user-content-groups) <br>
 
 <!-- LICENSE -->
 ## License

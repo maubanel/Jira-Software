@@ -39,13 +39,14 @@ Press <kbd>Use Template</kbd> to leave it as is.
 ##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Always select **Company Managed**.  Anyone in the group can start a Team-Managed project but allows NO CUSTOMIZATION.  This makes it MUCH less useful in the long term.  Please avoid this type of project.
+
 ![add project details](images/CompanyManaged1.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`JIRASOFT`| :small_orange_diamond:
 
-Now add **Name** for the project and make sure you are happy with the **Key** as it will be used on every issue.  If you have a project setting from a prior project you want to copy you can do so by selecting **Share settings with an existing project**. Pick a **Company Managed** template.
+Now add **Name** for the project and make sure you are happy with the **Key** as it will be used on every issue.  If you have a project setting from a prior project you want to copy you can do so by selecting **Share settings with an existing project**. 
 
 ![add project details](images/AddProjectDetails.png)
 

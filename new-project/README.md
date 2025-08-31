@@ -2,7 +2,7 @@
 
 ### Create New Project
 
-[home](../README.md#user-content-jira-software) • [next](../workflows/README.md#user-content-custom-workflows)</sub>
+[home](../README.md#user-content-jira-software) • [next](../project-settings/README.md#user-content-custom-workflows)</sub>
 
 ![](../images/line3.png)
 
@@ -56,21 +56,17 @@ Now add **Name** for the project and make sure you are happy with the **Key** as
 
 ##### `Step 6.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond:
 
-Now your project is ready to go!
+Add yourself as an administrator, or you will not be able to set up any project settings.
 
-![alt_text](images/ProjectReadyToGo.png)
-
-Now your project is ready to go!
-
-![alt_text](images/ProjectReadyToGo.png)
-
-![](../images/line.png)
+![alt_text](images/AddAdmin.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Custom Workflows"> -->
 
-![next up - ](images/banner.png)
+<div style="background-color:#3fd3c8; text-align:center; padding:20px; color:black; font-size:24px;">
+  Next Up - Project Settings
+</div>
 
 ![](../images/line.png)
 
-[home](../README.md#user-content-jira-software) | [next](../workflows/README.md#user-content-custom-workflows)|
+[home](../README.md#user-content-jira-software) | [next](../project-settings/README.md#user-content-custom-workflows)|
 |---|---|

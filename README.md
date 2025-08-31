@@ -10,7 +10,7 @@ This is an quick overview of some administration and user tasks that are common 
 
 <kbd></kbd> &nbsp;&nbsp; [Create New Project](new-project/README.md#user-content-create-new-project) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [Custom Workflows](workflows/README.md#user-content-custom-workflows) <br>
+<kbd></kbd> &nbsp;&nbsp; [Custom Workflows](project-settings/README.md#user-content-custom-workflows) <br>
 
 <kbd></kbd> &nbsp;&nbsp; [Groups](groups/README.md#user-content-groups) <br>
 

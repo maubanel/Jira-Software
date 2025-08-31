@@ -2,7 +2,7 @@
 
 ### Groups
 
-<sub>[previous](../workflows/README.md#user-content-workflows) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
+<sub>[previous](../project-settings/README.md#user-content-workflows) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 
@@ -43,5 +43,5 @@ Adding another group called **decision-makers**.  This will be used to limit who
 
 ![](../images/line.png)
 
-| [previous](../workflows/README.md#user-content-workflows)| [home](../README.md#user-content-jira-software) | [next](../)|
+| [previous](../project-settings/README.md#user-content-workflows)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|

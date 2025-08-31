@@ -12,11 +12,7 @@ This is an quick overview of some administration and user tasks that are common 
 
 <kbd></kbd> &nbsp;&nbsp; [Project Settings](project-settings/README.md#user-content-custom-workflows) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [Groups](groups/README.md#user-content-groups) <br>
-
-<kbd></kbd> &nbsp;&nbsp; [Restrict Workflow Transition](workflow-transition/README.md#user-content-restrict-workflow-transition) <br>
-
-<kbd></kbd> &nbsp;&nbsp; [Estimation & Tracking](estimation/README.md#user-content-estimation--tracking) <br>
+<kbd></kbd> &nbsp;&nbsp; [Workflow](workflow/README.md#user-content-groups) <br>
 
 <!-- LICENSE -->
 ## License

@@ -2,7 +2,7 @@
 
 ### Project Settings
 
-<sub>[previous](../new-project/README.md#user-content-create-new-project) • [home](../README.md#user-content-jira-software) • [next](../groups/README.md#user-content-groups)</sub>
+<sub>[previous](../new-project/README.md#user-content-create-new-project) • [home](../README.md#user-content-jira-software) • [next](../workflow/README.md#user-content-groups)</sub>
 
 ![](../images/line3.png)
 
@@ -123,31 +123,43 @@ In `Layout | Columns` you need to add the two new workflows added by pressing th
 
 ![aset board settings](images/BoardSettings.png)
 
+##### `Step 13.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
+
+Now if we go back to `Project Settings` you will see that there are 5 types.  I typically don't use Tasks (the difference between a Story and a Task is a bit moot in my mind).  Also, I find the layout for subtasks to be confusing so use epics and stories (epics are larger than one week tasks and stories need to fit within a sprint).
+
+![look at issue types](images/TooManyTypes.png)
+
 ![](../images/line2.png)
 
+##### `Step 14.`\|`JIRASOFT`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond:
 
-Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
+To remove them go to the site settings on the top right wheel and select `Work items` then click on the `Issue Type Scheme` of the project you are working on.  This project `Syngenta` with key `SGA` is the one I will edit.
 
-![configure board on project](images/configureBoard.png)
+![edit default schema](images/EditDefaultSchema.png)
 
-Add the new columns for each new node you created.  Then drag the unmapped statuses to the new empty columns.  Move them into a logical order that matches your above workflow.
+![](../images/line2.png)
 
-![add remove columns and assign statuses](images/CreateNewColumnsAndMapStatuses.png)
+##### `Step 15.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond:
 
+I select the three ellipse `...` and `Edit` the scheme.  I then drag `Task` `Sub Task` to the Available types, removing them from just this project.
 
-In the project press **Project Settings** and select <kbd>Add Workflows | Add Existing</kbd>.  Select the workflow you were editing then press <kbd>Next</kbd>.  Follow the next steps and make sure you press <kbd>Publish</kbd> at the end!
+![remove task and sub task](images/RemoveTaskSubtask.png)
 
-![go to project Workflows and add this newly edited copied workflow](images/PublishNewWorkflow.png)
+##### `Step 16.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond:
 
+Now if you go back to the `Project Settings` and look at `Work items | Types` you will swee that we are down to our three desired bug types.
 
-Now so we don't want to get too many workflows so we need to go to the overall **Settings** in the top right corner and select **Issues**.  Then select the **Workflows** tab and click on the three dots <kbd>...</kbd> and select **Delete**.
-
-![delete old workflow](images/DeleteOldWorkflow.png)
-<!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - ADD NEXT PAGE"> -->
-
-![next up - ](images/banner.png)
+![alt_text](images/TypeFixed.png)
 
 ![](../images/line.png)
 
-| [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../groups/README.md#user-content-groups)|
+
+<div style="background-color:#3fd3c8; text-align:center; padding:20px; color:black; font-size:24px;">
+  Next Up - Jira Workflow
+</div>
+
+
+![](../images/line.png)
+
+| [previous](../new-project/README.md#user-content-create-new-project)| [home](../README.md#user-content-jira-software) | [next](../workflow/README.md#user-content-groups)|
 |---------------------------|---|---|

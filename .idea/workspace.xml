@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ac422cfd-8a61-4c31-b6ca-6c3a2bf8d0ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/workflow/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/images/AddGroup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/images/CreateGroup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/images/DecidersGroup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/groups/images/banner.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project-settings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project-settings/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-settings/images/createWorkflow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflow-transition/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/workflow-transition/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756643317051</updated>
       <workItem from="1756643318304" duration="76000" />
-      <workItem from="1756643395414" duration="7601000" />
+      <workItem from="1756643395414" duration="11944000" />
     </task>
     <servers />
   </component>

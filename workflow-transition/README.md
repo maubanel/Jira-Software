@@ -2,7 +2,7 @@
 
 ### Restrict Workflow Transition
 
-<sub>[previous](../groups/README.md#user-content-groups) • [home](../README.md#user-content-jira-software) • [next](../estimation/README.md#user-content-estimation--tracking)</sub>
+<sub>[previous](../workflow/README.md#user-content-groups) • [home](../README.md#user-content-jira-software) • [next](../estimation/README.md#user-content-estimation--tracking)</sub>
 
 ![](../images/line3.png)
 
@@ -58,5 +58,5 @@ I also added a way back to bring a task from **Done** back into **Review** if an
 
 ![](../images/line.png)
 
-| [previous](../groups/README.md#user-content-groups)| [home](../README.md#user-content-jira-software) | [next](../estimation/README.md#user-content-estimation--tracking)|
+| [previous](../workflow/README.md#user-content-groups)| [home](../README.md#user-content-jira-software) | [next](../estimation/README.md#user-content-estimation--tracking)|
 |---|---|---|

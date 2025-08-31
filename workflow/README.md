@@ -43,6 +43,13 @@ Drag the newly created story in your backlog to the appropriate sprint (usually 
 
 ![alt_text](images/DragStoryFromBacklogToSprint.png)
 
+![](../images/line2.png)
+
+##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now it will show up on your sprint.  It starts in **TO DO** so move the item to in progress that you are working on now.
+
+![alt_text](images/SprintBoard1.png)
 
 ![](../images/line.png)
 

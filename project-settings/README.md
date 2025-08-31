@@ -6,7 +6,7 @@
 
 ![](../images/line3.png)
 
-When you want to customize the columns and create custom workflows (who can move from one column to another). You need administration privileges to do the below operations.  
+Customizing project with classroom tested workflows.
 
 <br>
 
@@ -14,14 +14,17 @@ When you want to customize the columns and create custom workflows (who can move
 
 ##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
-You cannot edit an active **Workflow**. The first thing we need to do is make a copy to then make changes.  *Press* the <kbd>Settings</kbd> gear in the top right hand side and select the **Issues** tab.
+After you create the project it goes to project settings (or click on the three ellipses `...` next to your project and select `settings`)
 
-![got to settings workspace](images/settingsIssues.png)
+![got to settings workspace](images/ProjectSettingsDetails.png)
 
 ![](../images/line2.png)
 
 ##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
+You cannot edit an active **Workflow**. The first thing we need to do is make a copy to then make changes.  *Press* the <kbd>Settings</kbd> gear in the top right hand side and select the **Issues** tab.
+
+![got to settings workspace](images/settingsIssues.png)
 Select the workspace you want to edit and make a copy of it.  Please remember to delete this workflow if it will no longer be used and becomes inactive.
 
 ![select and copy active workspace](images/copyWorkflow.png)

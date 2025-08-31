@@ -22,7 +22,7 @@ Create a new project by going to [lsudmae.atlassian.net](https://lsudmae.atlassi
 
 ##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
-Now most of the time we will be using the **Software Development | Scrum** Template that they give us.  We will use the default one to start.
+Select the **Software Development | Scrum** Template that they give us.  We will use this as our starting point.
 
 ![pick the scrum template](images/ScrumTemplate.png)
 

@@ -37,14 +37,6 @@ Add the **Project**, `Story` **Work type**, **Summary**, **Description**, **Pare
 
 ![](../images/line2.png)
 
-##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Adding another group called **decision-makers**.  This will be used to limit who can move tasks from **Review** to **Done**.
-
-![create as many groups as you need](images/DecidersGroup.png)
-
-
-![](../images/line.png)
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Restrict Workflow Transition"> -->
 
@@ -54,3 +46,5 @@ Adding another group called **decision-makers**.  This will be used to limit who
 
 | [previous](../project-settings/README.md#user-content-workflows)| [home](../README.md#user-content-jira-software) | [next](../)|
 |---|---|---|
+
+![](../images/line.png)

@@ -2,7 +2,7 @@
 
 ### Miscellaneous
 
-<sub>[previous](../) • [home](../README.md#user-content-jira-software) • [next](../workflow/README.md#user-content-workdlow)</sub>
+<sub>[previous](../workflow/README.md#user-content-workdlow) • [home](../README.md#user-content-jira-software) • [next](../)</sub>
 
 ![](../images/line3.png)
 

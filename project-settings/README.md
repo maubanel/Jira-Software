@@ -155,7 +155,7 @@ Now if you go back to the `Project Settings` and look at `Work items | Types` yo
 
 ##### `Step 17.`\|`JIRASOFT`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to your newly created **Sprint Board** and press the `[Start Sprint]` button.
+Go to your newly created **Sprint Board** and press the `[Start sprint]` button.
 
 ![alt_text](images/StartSprint.png)
 

@@ -62,9 +62,7 @@ Add yourself as an administrator, or you will not be able to set up any project 
 
 <!-- <img src="https://via.placeholder.com/1000x100/45D7CA/000000/?text=Next Up - Custom Workflows"> -->
 
-<div style="background-color:#3fd3c8; text-align:center; padding:20px; color:black; font-size:24px;">
-  Next Up - Project Settings
-</div>
+> ## ✅ Next Up – Project Settings
 
 ![](../images/line.png)
 

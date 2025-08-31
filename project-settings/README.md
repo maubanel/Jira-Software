@@ -14,7 +14,7 @@ Customizing project with classroom tested workflows.
 
 ##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
-After you create the project it goes to project settings (or click on the three ellipses `...` next to your project and select `settings`)
+After you create the project it goes to project settings (or click on the three ellipses `...` next to your project and select `Project Settings`). Select `Category` and `Project Lead.`
 
 ![got to settings workspace](images/ProjectSettingsDetails.png)
 
@@ -22,40 +22,54 @@ After you create the project it goes to project settings (or click on the three 
 
 ##### `Step 2.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: 
 
-You cannot edit an active **Workflow**. The first thing we need to do is make a copy to then make changes.  *Press* the <kbd>Settings</kbd> gear in the top right hand side and select the **Issues** tab.
+Nothing to edit in Summary, summarizes all the settings.
 
-![got to settings workspace](images/settingsIssues.png)
-Select the workspace you want to edit and make a copy of it.  Please remember to delete this workflow if it will no longer be used and becomes inactive.
-
-![select and copy active workspace](images/copyWorkflow.png)
+![summary of settings](images/Summary.png)
 
 ![](../images/line2.png)
 
 ##### `Step 3.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Add and remove any statuses. Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**. Remember to give permission to both directions (which nodes can go forward and which can go back).
+In the **People** tab add your `Developers` and `Admins`.
 
-![ad statuses and adjust flow](images/createWorkflow.png)
+![add developers and admin](images/AddDevsAdmins.png)
+
+
 
 ![](../images/line2.png)
 
 ##### `Step 4.`\|`JIRASOFT`| :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
+Permissions
 
-![configure board on project](images/configureBoard.png)
+Double check your permission settings to ensure that the administrators and developers have the permissions you want.
+
+![permissions](images/Permissions.png)
 
 ![](../images/line2.png)
 
 ##### `Step 5.`\|`JIRASOFT`| :small_orange_diamond:
 
-Add the new columns for each new node you created.  Then drag the unmapped statuses to the new empty columns.  Move them into a logical order that matches your above workflow. 
 
-![add remove columns and assign statuses](images/CreateNewColumnsAndMapStatuses.png)
+Select the `Workflows` tab and then `Edit Workflow`. 
 
+![edit workflow](images/copyWorkflow.png)
 ![](../images/line2.png)
 
 ##### `Step 6.`\|`JIRASOFT`| :small_orange_diamond: :small_blue_diamond:
+
+
+Add and remove any statuses. Try not to keep the **all** flows that are default and limit movement between columns as well as permissions of who can move a task to **Done**. Remember to give permission to both directions (which nodes can go forward and which can go back).
+
+![ad statuses and adjust flow](images/createWorkflow.png)
+Now we need to add the extra lanes that match the workflow.  Be careful that you need to all the workflow nodes in an active column.  In the top right select <kbd>...</kbd> **Configure Board** on thte top right of the active project page in the **Active Sprint**.
+
+![configure board on project](images/configureBoard.png)
+
+Add the new columns for each new node you created.  Then drag the unmapped statuses to the new empty columns.  Move them into a logical order that matches your above workflow.
+
+![add remove columns and assign statuses](images/CreateNewColumnsAndMapStatuses.png)
+
 
 In the project press **Project Settings** and select <kbd>Add Workflows | Add Existing</kbd>.  Select the workflow you were editing then press <kbd>Next</kbd>.  Follow the next steps and make sure you press <kbd>Publish</kbd> at the end!
 

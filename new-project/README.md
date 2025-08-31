@@ -14,7 +14,7 @@ Creating a new project from scratch in Jira.
 
 ##### `Step 1.`\|`JIRASOFT`| :small_blue_diamond:
 
-Create a new project by going to [lsudmae.atlassian.net](https://lsudmae.atlassian.net) and logging in.  Select the **Projects** drop down menu and select <kbd>New Project</kbd>.
+Create a new project by going to [lsudmae.atlassian.net](https://lsudmae.atlassian.net) and logging in.  Select the **Projects** tab on the left side menu and press the **+** button.
  
 ![add new project](images/CreateNewProject.png)
 
